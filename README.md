@@ -4,11 +4,17 @@ A KOReader plugin that adds a file browser display mode with large covers
 that still shows the title, author, reading progress and the other details
 the detailed list gives you. There are four layouts to choose from.
 
+| A · Big list | B · Two-up cards | C · Captioned mosaic | D · Feature list |
+| --- | --- | --- | --- |
+| ![Layout A](screenshots/layout-a-big-list.png) | ![Layout B](screenshots/layout-b-two-up-cards.png) | ![Layout C](screenshots/layout-c-captioned-mosaic.png) | ![Layout D](screenshots/layout-d-feature-list.png) |
+
 ## Using it
 
 In the file browser: **top menu → file browser tab → Display mode →
 Large covers with details.** Pick the layout under **Display mode → Large
 cover layout**:
+
+![Display mode menu](screenshots/display-mode-menu.png)
 
 * **A · Big list** -- three books a page, a large cover on the left and the
   title, author, series, file details, progress and when you last read it on
@@ -24,6 +30,8 @@ In A, B and C, a small **(i)** button next to the title opens the book's
 full description, with a button to start or continue reading. Turn it off
 with **Large cover layout → Show info button**. (D shows the description
 already, so it has no button.)
+
+![Description popup](screenshots/description-popup.png)
 
 Picking any of the other display modes switches large covers off again.
 
